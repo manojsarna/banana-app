@@ -1,5 +1,12 @@
+var btnTranslate = document.querySelector("#btn-translate");
+var txtInput = document.querySelector("#txt-input")
 
-var userName = prompt("Enter Name :")
-console.log("Welcome! "+ userName);
+// DOM SCRIPTING IN INSPECT : STORE AS GLOBAL VARIABLE TO PLAY AROUND WITH ATTRIBUTES
 
-alert("Welcome!"+userName)
+btnTranslate.addEventListener("click",function clickEventHandler(){
+
+        console.log("clicked");
+        console.log("input",txtInput.value)
+
+});
+ 
