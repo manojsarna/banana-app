@@ -1,5 +1,5 @@
 # Banana Translation App
 
-    A banana language translator app to understand minions.
+A banana language translator app to understand minions.
 
-    https://manoj-banana-talk.netlify.app/
+https://manoj-banana-talk.netlify.app/
